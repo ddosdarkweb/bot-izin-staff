@@ -2,3 +2,4 @@ python-telegram-bot==20.8
 Flask==2.3.3
 pytz
 telegram
+python-telegram-bot[job-queue]
